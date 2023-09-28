@@ -15,9 +15,13 @@ Ele é muito simples de usar é só seguir as instruções abaixo:
 
 1- Após chegar no formulário as deve inserir oque pede;
 
+
 Insira seu Email para sabermos quem você é;
+
 Em seguida seu assunto para sabermos seu problema ou relatar algo;
+
 E por último uma mensagem, tanto de satisfação ou de reclamação;
+
 
 2- Após disso você envia tudo que escreveu, e dentro de um prazo de 10min, responderemos e resolveremos seu problema.
 
