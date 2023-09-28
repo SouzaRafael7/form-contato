@@ -1,0 +1,31 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+p{
+    position: absolute;
+    top: 50px;
+}
+
+h1{
+    position: absolute;
+    top: 0px;
+    left: 550px;
+
+}
+
+input, textarea{
+
+
+}
+
+textarea{
+
+}
+
+body{
+    position: absolute;
+
+    
+}
