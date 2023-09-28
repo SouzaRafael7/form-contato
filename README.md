@@ -1,5 +1,5 @@
 # form-contato
-O formulário de contato foi criado para pessoas relatarem um problema.
+O formulário de contato foi criado para pessoas relatarem ou agradecerem qualquer assunto.
 
 ![Site](imagens/site.png)
 
