@@ -35,3 +35,11 @@ E por último uma mensagem, tanto de satisfação ou de reclamação;
 * ``Git hub``
 * ``Git bash``
 
+# Fontes utilizadas 
+
+* [Get Waves] (https://getwaves.io/) - Planos de fundo para forms.
+
+# Autores
+
+Rafael Souza Mastellini
+
