@@ -37,7 +37,7 @@ E por último uma mensagem, tanto de satisfação ou de reclamação;
 
 # Fontes utilizadas 
 
-* [Get Waves] (https://getwaves.io/) - Planos de fundo para forms.
+* [Get Waves](https://getwaves.io/) - Planos de fundo para forms.
 
 # Autores
 
