@@ -1,4 +1,4 @@
-# form-contato
+<h1 align="center"> Formulário de Contato</h1>
 O formulário de contato foi criado para pessoas relatarem ou agradecerem qualquer assunto.
 
 ![Site](imagens/site.png)
@@ -25,4 +25,13 @@ E por último uma mensagem, tanto de satisfação ou de reclamação;
 
 2- Após disso você envia tudo que escreveu, e dentro de um prazo de 10min, responderemos e resolveremos seu problema.
 
+# Tecnologias utilizadas
+
+* ``HTML5``
+* ``CSS3``
+* ``Navegador``
+* ``Microsoft Teams``
+* ``Vs code``
+* ``Git hub``
+* ``Git bash``
 
