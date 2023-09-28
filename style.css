@@ -5,27 +5,11 @@
 
 p{
     position: absolute;
-    top: 50px;
+    top: 30px;
 }
 
 h1{
     position: absolute;
-    top: 0px;
+    top: 1px;
     left: 550px;
 
-}
-
-input, textarea{
-
-
-}
-
-textarea{
-
-}
-
-body{
-    position: absolute;
-
-    
-}
