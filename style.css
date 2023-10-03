@@ -1,15 +1,45 @@
 h1{
- text-align: center;
-
+    text-align: center;
+    margin: 0 auto;
 }
 
-form{
+span {
+    font-size: smaller;
+    color: rgb(14, 12, 12); 
+ }
+
+ button {
+    width: 30%;
+    height: 55%;
+    text-align: center;
+    background-color: rgb(210, 247, 234);
+
+ }
+
+ form {
 
     width: 500px;
-    margin: auto;
+    margin: 0 auto;
+ }
 
-}
+ imput, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
 
-{
+
+ }
+
+ textarea {
+    height: 140px;
+ }
+
+ body {
     
-}
+ }
+ 
+
+
+
