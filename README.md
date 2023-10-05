@@ -1,7 +1,7 @@
 <h1 align="center"> Formulário de Contato</h1>
 O formulário de contato foi criado para pessoas relatarem ou agradecerem qualquer assunto.
 
-![Site](imagens/site.png)
+![Site](imagens/print.png)
 
 # Sobre
 
